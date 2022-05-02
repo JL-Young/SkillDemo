@@ -4,6 +4,6 @@ import static org.junit.Assert.*;
 public class SkillDemoTester {
     @Test
     public void stringLengthTest() {
-        assertEquals(1, SkillDemo.stringLength("science"));
+        assertEquals(7, SkillDemo.stringLength("science"));
     }
 }
