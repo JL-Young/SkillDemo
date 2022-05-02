@@ -1,3 +1,5 @@
 public class SkillDemo {
-  // method goes here
+  static int stringLength(String str) {
+    return str.length();
+  }
 }
